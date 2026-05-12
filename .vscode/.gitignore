@@ -1,7 +1,12 @@
-node_modules/
 __pycache__/
 *.pyc
 
 # Archivos de sistema y logs
 .DS_Store
 *.log
+
+venv/
+.env
+env/
+
+.vscode/
